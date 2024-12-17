@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola!👋 Soy Allisson Gualpa
 
-<!--
-**AllissonGualpaA/AllissonGualpaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Ciencias de la Computación en la Universidad de Especialidades Espíritu Santo. Me apasiona el desarrollo de software, especialmente en Java y Python.
 
-Here are some ideas to get you started:
+### 🚀 Habilidades:
+- Técnicas: Java, Python, Laravel, Unity
+- Herramientas: Git, Visual Studio Code, IntelliJ IDEA, NetBeans, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Proyectos Académicos:
+- Reproductor de Música (Java Swing)
+- Videojuego 2D (Unity)
+
+### 📫 Contacto:
+- Correo: [aagualpa28@gmail.com](mailto:aagualpa28@gmail.com)
+- LinkedIn: [Allisson Gualpa](https://www.linkedin.com/in/allisson-gualpa-55a424342/)
